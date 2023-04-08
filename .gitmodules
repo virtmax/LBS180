@@ -1,0 +1,6 @@
+[submodule "external/NucMath"]
+	path = external/NucMath
+	url = https://github.com/virtmax/NucMath.git
+[submodule "external/qcustomplotzoom"]
+	path = external/qcustomplotzoom
+	url = https://github.com/virtmax/qcustomplotzoom.git
